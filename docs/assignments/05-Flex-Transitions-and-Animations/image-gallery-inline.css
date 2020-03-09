@@ -41,8 +41,7 @@ body {
   
   
   .container{
-    flex-wrap: nowrap | wrap | wrap-reverse; 
+    flex-wrap: wrap;
 }
-  nowrap default all flex items will be on
-  
+  /* nowrap default all flex items will be on */
   
