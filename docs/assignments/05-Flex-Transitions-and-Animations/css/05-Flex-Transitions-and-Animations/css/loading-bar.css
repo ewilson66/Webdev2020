@@ -1,0 +1,25 @@
+.box {
+    width: 200px;
+    height: 100px;
+    background-color: lightgreen;
+    animation-name: move;
+    animation-duration: 10s;
+    /* animation-fill-mode: across; */
+    
+    animation-iteration-count: infinite;
+    animation-fill-mode: forwards;
+    animation-duration: alternate-reverse;
+    animation-duration: 15s;
+    animation-timing-function: linear;
+      
+  }
+  
+  @keyframes move {
+    
+    0% {width: 200px; height: 100px;}
+    10% {width: 800px; height: 100px;}
+    50%{width: 800px; height: 300px;}
+    80%{width: 800px; height: 300px;}
+    
+    
+  }
