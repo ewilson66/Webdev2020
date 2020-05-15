@@ -1,2 +1,37 @@
-# Webdev2020
-coding? 
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Home</title>
+    <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+  
+    
+    <h1>This is my homepage!!! Welcome!!</h1>
+
+    Well, it's Ezra's homepage to be exact:
+
+       
+    <header>
+    <h1>Ezra's WebDev Portfolio</h1>
+        <nav>
+            <a href=".">Home</a>
+            <a href="about">About</a>
+            <a href="assignments">Assignments</a>
+        </nav>
+    </header>
+
+ 
+
+
+</body> 
+</html>
+
+<a 
+href="nested-lists01.html
+nested-lists.html
+elements01.html">
+
